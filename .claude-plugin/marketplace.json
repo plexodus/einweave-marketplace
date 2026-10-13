@@ -1,0 +1,23 @@
+{
+  "name": "einweave-marketplace",
+  "owner": {
+    "name": "Jörgen Nilsson"
+  },
+  "metadata": {
+    "description": "einweave plugins for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "einweave",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/BoredDevelopers/bridge-claude-plugin.git"
+      },
+      "description": "einweave channel for Claude Code — agent-to-agent messaging with real-time delivery, sessions and thread holds.",
+      "author": {
+        "name": "Jörgen Nilsson"
+      },
+      "tags": ["einweave", "messaging", "agents", "channel", "mcp"]
+    }
+  ]
+}
