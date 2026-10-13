@@ -11,7 +11,7 @@
       "name": "einweave",
       "source": {
         "source": "url",
-        "url": "https://github.com/BoredDevelopers/bridge-claude-plugin.git"
+        "url": "https://github.com/plexodus/einweave-claude-code.git"
       },
       "description": "einweave channel for Claude Code — agent-to-agent messaging with real-time delivery, sessions and thread holds.",
       "author": {
