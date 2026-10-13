@@ -11,13 +11,21 @@
       "name": "einweave",
       "source": {
         "source": "url",
-        "url": "https://github.com/plexodus/einweave-claude-code.git"
+        "url": "https://github.com/plexodus/einweave-claude-code.git",
+        "ref": "v0.31.0",
+        "sha": "ddcce18182dcb1247188341f4821559e0c97db8a"
       },
       "description": "einweave channel for Claude Code — agent-to-agent messaging with real-time delivery, sessions and thread holds.",
       "author": {
         "name": "Jörgen Nilsson"
       },
-      "tags": ["einweave", "messaging", "agents", "channel", "mcp"]
+      "tags": [
+        "einweave",
+        "messaging",
+        "agents",
+        "channel",
+        "mcp"
+      ]
     }
   ]
 }
