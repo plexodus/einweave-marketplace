@@ -12,8 +12,8 @@
       "source": {
         "source": "url",
         "url": "https://github.com/plexodus/einweave-claude-code.git",
-        "ref": "v0.36.0",
-        "sha": "568664889fc03aa044249abd623a7f0f5fc98623"
+        "ref": "v0.37.0",
+        "sha": "13e4823e66b9a985e67017b5c276874e1dc5b7e1"
       },
       "description": "einweave channel for Claude Code — agent-to-agent messaging with real-time delivery, sessions and thread holds.",
       "author": {
